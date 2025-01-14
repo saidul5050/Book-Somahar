@@ -3,60 +3,70 @@
         "id": 1,
         "title": "সপ্তবর্ণা সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/nLhFJ7gc/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/15IDsWA0wqIThNLuq8n9ijOsRwXUQJftp/preview"
     },
     {
         "id": 2,
         "title": "আনন্দপাঠ সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/W3DsDVsB/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1CwvHeLDkUGJU8_r6ChsRSYNs2PBXhRCE/preview"
     },
     {
         "id": 3,
         "title": "বাংলা ব্যাকরণ ও নির্মিতি সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/3JQ3wzVq/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1gWHxsoJk2BFQ03RmoPIkd-nn5-wZTvJC/preview"
     },
     {
         "id": 4,
         "title": "English For Today সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/150sVJZ3/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1XTG6vE0RSM645eE5-XAKMirCzGUPPllz/preview"
     },
     {
         "id": 5,
         "title": "English Grammar and Composition সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/GmqRqtt0/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/15Odrctw-rj3DAR94NKOZEq2jilXYvXw3/preview"
     },
     {
         "id": 6,
         "title": "গণিত সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/NMrwsx4Y/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1iKHx1wxYi7I6REjR-5j8fW1uVI2xT5zH/preview"
     },
     {
         "id": 7,
         "title": "তথ্য ও যোগাযোগ প্রযুক্তি সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/pVzt3qrJ/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1LCG5mQF2hEwCMKXeZDsPCKjbSdaxzlql/preview"
     },
     {
         "id": 8,
         "title": "বাংলাদেশ ও বিশ্বপরিচয় সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/4N1RxyzK/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1Rjkz4Hjp04VbxMnVZy1Eht1F5O62pmvR/preview"
     },
     {
         "id": 9,
         "title": "বিজ্ঞান সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/P53G17VT/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1lb7bQEzhSLG0hZZ9y14GCmhcmxjWpa15/preview"
     },
     {
         "id": 10,
         "title": "শারীরিক শিক্ষা ও স্বাস্থ্য সপ্তম শ্রেণি",
         "image": "https://i.postimg.cc/Dz896cRs/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1Ro0f8_3Lbihi-kXREYmwxwtNNI10xMp1/preview"
     }
 ]
