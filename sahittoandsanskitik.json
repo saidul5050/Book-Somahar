@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "অধ্যয়ন ও জ্ঞান সাধনা",
+        "image": "https://i.postimg.cc/nhDMYtYx/image.png",
+        "author": "আবু বকর সিরাজী",
+        "URL": "https://drive.google.com/file/d/10YWRYaaXVtTGOVlUEouFnxSCfbLGGxaV/preview"
+    },
+    {
+        "id": 2,
+        "title": "অনল প্রবাহ",
+        "image": "https://i.postimg.cc/cJGCF5Xn/image.png",
+        "author": "সৈয়দ ইসমাইল হোসেন শিরাজী",
+        "URL": "https://drive.google.com/file/d/1-Ruse-lk5uyFqEjw1FBwsQlcTI7OD8yV/preview"
+    },
+    {
+        "id": 3,
+        "title": "অপসংস্কৃতির বিভীষিকা",
+        "image": "https://i.postimg.cc/nLKzgYPw/image.png",
+        "author": "জহুরী",
+        "URL": "https://drive.google.com/file/d/12-sx9BGJ4R7NnM6QDPdFoMnqv_cy7VGw/preview"
+    },
+    {
+        "id": 4,
+        "title": "আমাদের সংস্কৃতি বিচার্য বিষয় ও চ্যালেঞ্জসমূহ",
+        "image": "https://i.postimg.cc/63YQ56wr/image.png",
+        "author": "মোঃ জয়নুল আবেদীন মজুমদার",
+        "URL": "https://drive.google.com/file/d/1AM5D6iIbB9S3KiGus4VD_efbmO3R8rNs/preview"
+    },
+    {
+        "id": 5,
+        "title": "আমি বারোমাস তোমায় ভালোবাসি",
+        "image": "https://i.postimg.cc/T1sYgkKh/image.png",
+        "author": "মাসুদা সুলতানা রুমি",
+        "URL": "https://drive.google.com/file/d/19Qw7i-Z7LwOojfyQgfU9sHlZxW1l9uPJ/preview"
+    },
+    {
+        "id": 6,
+        "title": "আরবি সাহিত্যে ইসলামী ভাবধারা",
+        "image": "https://i.postimg.cc/xCC25vDm/image.png",
+        "author": "ইফতিখারুল আলম মাসউদ",
+        "URL": "https://drive.google.com/file/d/1BmU_6YJlyNYl0umGhDy3zt-U_7rDRb7x/preview"
+    },
+    {
+        "id": 7,
+        "title": "আসমানি আদালত",
+        "image": "https://i.postimg.cc/05hz6QDn/image.png",
+        "author": "মাহমুদ শিত খাত্তাব",
+        "URL": "https://drive.google.com/file/d/11KlHU-E3qD2ZJOFjI8O4GduTLYdKS29J/preview"
+    },
+    {
+        "id": 8,
+        "title": "আসরারে খূদী",
+        "image": "https://i.postimg.cc/156fDQKQ/image.png",
+        "author": "আল্লামা ইকবাল",
+        "URL": "https://drive.google.com/file/d/179nZDetVwx_YhoxG24lTy7K6gC-1BI8K/preview"
+    },
+    {
+        "id": 9,
+        "title": "ইসলাম ও শিল্পকলা",
+        "image": "https://i.postimg.cc/13Q4HjWN/image.png",
+        "author": "আল্লামা ইউসুফ আল-কারযাভী",
+        "URL": "https://drive.google.com/file/d/1PA7OjNfSWcwHXk_8LUc1zpK_pDLPGfEZ/preview"
+    },
+    {
+        "id": 10,
+        "title": "ইসলামী শিক্ষা সংস্কৃতি",
+        "image": "https://i.postimg.cc/gJn0jF01/image.png",
+        "author": "এ.কে.এম নাজির আহমেদ",
+        "URL": "https://drive.google.com/file/d/1IM-S5HueOgjF7ujqmnYF1bRQTtqG6d_o/preview"
+    }
+]
