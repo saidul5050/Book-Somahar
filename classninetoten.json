@@ -3,60 +3,70 @@
         "id": 1,
         "title": "বাংলা সাহিত্য নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/HLCm2kqH/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1EL_DZGQXh-w2qVVlHKo_BWOXkiPWGF3R/preview"
     },
     {
         "id": 2,
         "title": "বাংলা সহপাঠ নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/tCCNsd7G/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1uNspy7qUYc8I8WffkaEVt9caBGlS_LCG/preview"
     },
     {
         "id": 3,
         "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/26trn7m9/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1GoV6AJ9fgbtmiNopCXsviq8aatjSPxUG/preview"
     },
     {
         "id": 4,
         "title": "English For Today নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/vmBm9BfB/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1Y7ygihk1dAkbWcBbPG9oFU3F_CCZ1gGa/preview"
     },
     {
         "id": 5,
         "title": "English Grammar and Composition নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/tgXxcpPQ/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1iVqQ5X3jw3UmnHKclSKkDyD4R2m9dY9J/preview"
     },
     {
         "id": 6,
         "title": "গণিত নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/rmGF2rLf/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1EBAGV3MrF3l-jnqgS6Z2tgk9pRTa3vzC/preview"
     },
     {
         "id": 7,
         "title": "তথ্য ও যোগাযোগ প্রযুক্তি নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/ydxnwF9H/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/10DYq8yuMb3tgWgTZ7fXx_KThABOUJR6k/preview"
     },
     {
         "id": 8,
         "title": "বিজ্ঞান নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/hG6pRX0Q/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1oo1WdiUlnE5FErGB5SZ81FPxIa_YZjBu/preview"
     },
     {
         "id": 9,
         "title": "পদার্থবিজ্ঞান নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/hv5G2qnn/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/11i2p_9t4uiL60MQ9xz4HPs6SlpBF-TGF/preview"
     },
     {
         "id": 10,
         "title": "রসায়ন নবম-দশম শ্রেণি",
         "image": "https://i.postimg.cc/cLMSHNzJ/image.png",
+        "author": "NCTTB",
         "url": "https://drive.google.com/file/d/1PI_54DEiHPLCA4DEGohamxFy53oHhKFC/preview"
     }
 ]
