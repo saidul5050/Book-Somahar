@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "অধ্যাপক গোলাম আযমের সংগ্রামী জীবনী",
+        "image": "https://i.postimg.cc/L5Thd01C/image.png",
+        "author": "মুহাম্মদ কামারুজ্জামান",
+        "URL": "https://drive.google.com/file/d/10bLAerlxtE-33-IkTyjjhOE0cDuerwvo/preview"
+    },
+    {
+        "id": 2,
+        "title": "অমানিশার আলোকমালা",
+        "image": "https://i.postimg.cc/c4k4Q3Mn/image.png",
+        "author": "বদরুজ্জামান",
+        "URL": "https://drive.google.com/file/d/11qi7PemTbKRLQlqf85rzCtKs91CYWsPR/preview"
+    },
+    {
+        "id": 3,
+        "title": "আবু জা'ফর মুহাম্মাদ ইবনু জারীর আত্ তাবারী- জীবন ও কর্ম",
+        "image": "https://i.postimg.cc/FH1bZjt5/image.png",
+        "author": " ড. নজরুল ইসলাম খান আল মারুফ",
+        "URL": "https://drive.google.com/file/d/1AmCg81GFdhS3kGxE8SjjMZhlwHZ-3bRp/preview"
+    },
+    {
+        "id": 4,
+        "title": "আবু নাজীহ ( রাঃ) এর ইসলাম গ্রহণ",
+        "image": "https://i.postimg.cc/fLQxDpVD/image.png",
+        "author": "মুসাম্মাৎ শারমীন আখতার",
+        "URL": "https://drive.google.com/file/d/1CqJ5BzwPFos6GiuQkLqQGL1pWV-L6wXp/preview"
+    },
+    {
+        "id": 5,
+        "title": "আবু বাকর আছছিদ্দিক (রাঃ) এর জীবনী",
+        "image": "https://i.postimg.cc/vZ199b9G/image.png",
+        "author": "ড. আহমদ আলি",
+        "URL": "https://drive.google.com/file/d/1DAV8oWAtUA7_m3IqYLJ2XpklgfWX4QIY/preview"
+    },
+    {
+        "id": 6,
+        "title": "আবুবকর ও ওমর রাদিয়াল্লাহু আনহুমার জীবনের কিছু ঘটনা",
+        "image": "https://i.postimg.cc/mD4F09nr/image.png",
+        "author": "হোমায়রা বানু",
+        "URL": "https://drive.google.com/file/d/1BomCTNHIvCGeM89L414ZK-jMTK-bC073/preview"
+    },
+    {
+        "id": 7,
+        "title": "আবুবকর রা. সম্পর্কে ১৫০ টি শিক্ষা ঘটনা",
+        "image": "https://i.postimg.cc/zBqVdrLb/image.png",
+        "author": "আহমাদ আবদুল আলি তাহতাভী",
+        "URL": "https://drive.google.com/file/d/1AI214kqtO-lW6LTLbEg1pt0grJjK5b40/preview"
+    },
+    {
+        "id": 8,
+        "title": "আবূ তালিব-এর ইসলাম",
+        "image": "https://i.postimg.cc/xjz1K8px/image.png",
+        "author": "গোলাম মোস্তফা যহীর",
+        "URL": "https://drive.google.com/file/d/1275ONBOMqGPGjXVV-FXaZ6B7dvuPIw_0/preview"
+    },
+    {
+        "id": 9,
+        "title": "আমার আব্বা আম্মা",
+        "image": "https://i.postimg.cc/vZ9rkGm3/image.png",
+        "author": "সাইয়েদা হুমায়রা মওদূদী",
+        "URL": "https://drive.google.com/file/d/1Ai8jDWZiRoeDs_zxpZNJNvggECR-sJDA/preview"
+    },
+    {
+        "id": 10,
+        "title": "আমার আম্মা",
+        "image": "https://i.postimg.cc/t4KbkQS3/image.png",
+        "author": "সাইয়েদ আবুল হাসান আলী নাদভী",
+        "URL": "https://drive.google.com/file/d/1BA7yBADlwhbDGlWGdwOrYIWdGQCwqUhz/preview"
+    }
+]
