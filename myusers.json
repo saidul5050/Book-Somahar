@@ -1,0 +1,14 @@
+[
+    {
+        "username": "user1",
+        "password": "securepassword1",
+        "access_start_date": "2025-01-01",
+        "access_expiration_date": "2025-01-31"
+    },
+    {
+        "username": "user2",
+        "password": "securepassword2",
+        "access_start_date": "2025-01-15",
+        "access_expiration_date": "2025-02-14"
+    }
+]
