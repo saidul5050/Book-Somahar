@@ -5,7 +5,7 @@
         "access_start_date": "2025-01-01",
         "access_expiration_date": "2025-01-31",
         "all_tools_access": false,   
-        "accessible_tools": ["MozPro", "SEMRush"] 
+        "accessible_tools": ["MozPro", "SEMRush", "Perplexity"] 
     },
     {
         "username": "user2",
