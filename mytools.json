@@ -394,6 +394,457 @@
 		"tool_url": "https://onlinetools.ai/website-audit-tool",
 		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTk=="
 
-	}
+	},
+	{
+        "tool_name": "WordTracker",
+        "tool_image": "https://i.postimg.cc/50FCRsZ5/image.png",
+        "tool_url": "https://www.wordtracker.com/search",
+        "tool_cookies": "cookie 1"
+         },
+         {
+        "tool_name": "Grammarly",
+        "tool_image": "https://i.postimg.cc/WzNJ1sd8/image.png",
+        "tool_url": "https://www.grammarly.com/",
+        "tool_cookies": "cookie 2"
+       },
+       {
+        "tool_name": "Wordtune",
+        "tool_image": "https://i.postimg.cc/ydYVJxTD/image.png",
+        "tool_url": "https://app.wordtune.com/editor/",
+        "tool_cookies": "cookie 3"
+       },
+       {
+       "tool_name": "Quillbot",
+        "tool_image": "https://i.postimg.cc/59XXpKw6/image.png",
+        "tool_url": "https://quillbot.com/login?",
+        "tool_cookies": "cookie 4"
+       },
+       {
+        "tool_name": "Paperpal",
+        "tool_image": "https://i.postimg.cc/mZ9btvYN/image.png",
+        "tool_url": "https://sso.editage.com/login?continue=https%3A%2F%2Fedit.paperpal.com%2Flogin",
+        "tool_cookies": "cookie 5"
+      },
+      {
+        "tool_name": "ChatGPT",
+        "tool_image": "https://i.postimg.cc/2yk2NRrR/image.png",
+        "tool_url": "https://chatgpt.com/",
+        "tool_cookies": "cookie 6"
+      },
+      {
+        "tool_name": "You.com",
+        "tool_image": "https://i.postimg.cc/fb7cz2Hw/image.png",
+        "tool_url": "https://you.com/",
+        "tool_cookies": "cookie 7"
+       },
+       {
+        "tool_name": "CloserCopy",
+        "tool_image": "https://i.postimg.cc/J7XkMdtS/image.png",
+        "tool_url": "https://www.closerscopy.com/dashboard/M6WGYB35AT4MNSDS25AEQGM2",
+        "tool_cookies": "cookie 8"
+        },
+        {
+        "tool_name": "name 9",
+        "tool_image": "image 9",
+        "tool_url": "URL 9",
+        "tool_cookies": "cookie 9"
+         },
+         {
+        "tool_name": "name 10",
+        "tool_image": "image 10",
+        "tool_url": "URL 10",
+        "tool_cookies": "cookie 10"
+         },
+         {
+        "tool_name": "name 11",
+        "tool_image": "image 11",
+        "tool_url": "URL 11",
+        "tool_cookies": "cookie 11"
+         },
+         {
+        "tool_name": "name 12",
+        "tool_image": "image 12",
+        "tool_url": "URL 12",
+        "tool_cookies": "cookie 12"
+          },
+          {
+        "tool_name": "name 13",
+        "tool_image": "image 13",
+        "tool_url": "URL 13",
+        "tool_cookies": "cookie 13"
+         },
+         {
+        "tool_name": "name 14",
+        "tool_image": "image 14",
+        "tool_url": "URL 14",
+        "tool_cookies": "cookie 14"
+         },
+         {
+        "tool_name": "name 15",
+        "tool_image": "image 15",
+        "tool_url": "URL 15",
+        "tool_cookies": "cookie 15"
+         },
+         {
+        "tool_name": "name 16",
+        "tool_image": "image 16",
+        "tool_url": "URL 16",
+        "tool_cookies": "cookie 16"
+         },
+         {
+        "tool_name": "name 17",
+        "tool_image": "image 17",
+        "tool_url": "URL 17",
+        "tool_cookies": "cookie 17"
+         },
+         {
+        "tool_name": "name 18",
+        "tool_image": "image 18",
+        "tool_url": "URL 18",
+        "tool_cookies": "cookie 18"
+         },
+         {
+        "tool_name": "name 19",
+        "tool_image": "image 19",
+        "tool_url": "URL 19",
+        "tool_cookies": "cookie 19"
+         },
+         {
+        "tool_name": "name 20",
+        "tool_image": "image 20",
+        "tool_url": "URL 20",
+        "tool_cookies": "cookie 20"
+          },
+          {
+        "tool_name": "name 21",
+        "tool_image": "image 21",
+        "tool_url": "URL 21",
+        "tool_cookies": "cookie 21"
+         },
+         {
+        "tool_name": "name 22",
+        "tool_image": "image 22",
+        "tool_url": "URL 22",
+        "tool_cookies": "cookie 22"
+         },
+         {
+        "tool_name": "name 23",
+        "tool_image": "image 23",
+        "tool_url": "URL 23",
+        "tool_cookies": "cookie 23"
+         },
+         {
+        "tool_name": "name 24",
+        "tool_image": "image 24",
+        "tool_url": "URL 24",
+        "tool_cookies": "cookie 24"
+        },
+        {
+        "tool_name": "name 25",
+        "tool_image": "image 25",
+        "tool_url": "URL 25",
+        "tool_cookies": "cookie 25"
+         },
+         {
+        "tool_name": "name 26",
+        "tool_image": "image 26",
+        "tool_url": "URL 26",
+        "tool_cookies": "cookie 26"
+    },
+    {
+        "tool_name": "name 27",
+        "tool_image": "image 27",
+        "tool_url": "URL 27",
+        "tool_cookies": "cookie 27"
+    },
+    {
+        "tool_name": "name 28",
+        "tool_image": "image 28",
+        "tool_url": "URL 28",
+        "tool_cookies": "cookie 28"
+    },
+    {
+        "tool_name": "name 29",
+        "tool_image": "image 29",
+        "tool_url": "URL 29",
+        "tool_cookies": "cookie 29"
+    },
+    {
+        "tool_name": "name 30",
+        "tool_image": "image 30",
+        "tool_url": "URL 30",
+        "tool_cookies": "cookie 30"
+    },
+    {
+        "tool_name": "name 31",
+        "tool_image": "image 31",
+        "tool_url": "URL 31",
+        "tool_cookies": "cookie 31"
+    },
+    {
+        "tool_name": "name 32",
+        "tool_image": "image 32",
+        "tool_url": "URL 32",
+        "tool_cookies": "cookie 32"
+    },
+    {
+        "tool_name": "name 33",
+        "tool_image": "image 33",
+        "tool_url": "URL 33",
+        "tool_cookies": "cookie 33"
+    },
+    {
+        "tool_name": "name 34",
+        "tool_image": "image 34",
+        "tool_url": "URL 34",
+        "tool_cookies": "cookie 34"
+    },
+    {
+        "tool_name": "name 35",
+        "tool_image": "image 35",
+        "tool_url": "URL 35",
+        "tool_cookies": "cookie 35"
+    },
+    {
+        "tool_name": "name 36",
+        "tool_image": "image 36",
+        "tool_url": "URL 36",
+        "tool_cookies": "cookie 36"
+    },
+    {
+        "tool_name": "name 37",
+        "tool_image": "image 37",
+        "tool_url": "URL 37",
+        "tool_cookies": "cookie 37"
+    },
+    {
+        "tool_name": "name 38",
+        "tool_image": "image 38",
+        "tool_url": "URL 38",
+        "tool_cookies": "cookie 38"
+    },
+    {
+        "tool_name": "name 39",
+        "tool_image": "image 39",
+        "tool_url": "URL 39",
+        "tool_cookies": "cookie 39"
+    },
+    {
+        "tool_name": "name 40",
+        "tool_image": "image 40",
+        "tool_url": "URL 40",
+        "tool_cookies": "cookie 40"
+    },
+    {
+        "tool_name": "name 41",
+        "tool_image": "image 41",
+        "tool_url": "URL 41",
+        "tool_cookies": "cookie 41"
+    },
+    {
+        "tool_name": "name 42",
+        "tool_image": "image 42",
+        "tool_url": "URL 42",
+        "tool_cookies": "cookie 42"
+    },
+    {
+        "tool_name": "name 43",
+        "tool_image": "image 43",
+        "tool_url": "URL 43",
+        "tool_cookies": "cookie 43"
+    },
+    {
+        "tool_name": "name 44",
+        "tool_image": "image 44",
+        "tool_url": "URL 44",
+        "tool_cookies": "cookie 44"
+    },
+    {
+        "tool_name": "name 45",
+        "tool_image": "image 45",
+        "tool_url": "URL 45",
+        "tool_cookies": "cookie 45"
+    },
+    {
+        "tool_name": "name 46",
+        "tool_image": "image 46",
+        "tool_url": "URL 46",
+        "tool_cookies": "cookie 46"
+    },
+    {
+        "tool_name": "name 47",
+        "tool_image": "image 47",
+        "tool_url": "URL 47",
+        "tool_cookies": "cookie 47"
+    },
+    {
+        "tool_name": "name 48",
+        "tool_image": "image 48",
+        "tool_url": "URL 48",
+        "tool_cookies": "cookie 48"
+    },
+    {
+        "tool_name": "name 49",
+        "tool_image": "image 49",
+        "tool_url": "URL 49",
+        "tool_cookies": "cookie 49"
+    },
+    {
+        "tool_name": "name 50",
+        "tool_image": "image 50",
+        "tool_url": "URL 50",
+        "tool_cookies": "cookie 50"
+    },
+    {
+        "tool_name": "name 51",
+        "tool_image": "image 51",
+        "tool_url": "URL 51",
+        "tool_cookies": "cookie 51"
+    },
+    {
+        "tool_name": "name 52",
+        "tool_image": "image 52",
+        "tool_url": "URL 52",
+        "tool_cookies": "cookie 52"
+    },
+    {
+        "tool_name": "name 53",
+        "tool_image": "image 53",
+        "tool_url": "URL 53",
+        "tool_cookies": "cookie 53"
+    },
+    {
+        "tool_name": "name 54",
+        "tool_image": "image 54",
+        "tool_url": "URL 54",
+        "tool_cookies": "cookie 54"
+    },
+    {
+        "tool_name": "name 55",
+        "tool_image": "image 55",
+        "tool_url": "URL 55",
+        "tool_cookies": "cookie 55"
+    },
+    {
+        "tool_name": "name 56",
+        "tool_image": "image 56",
+        "tool_url": "URL 56",
+        "tool_cookies": "cookie 56"
+    },
+    {
+        "tool_name": "name 57",
+        "tool_image": "image 57",
+        "tool_url": "URL 57",
+        "tool_cookies": "cookie 57"
+    },
+    {
+        "tool_name": "name 58",
+        "tool_image": "image 58",
+        "tool_url": "URL 58",
+        "tool_cookies": "cookie 58"
+    },
+    {
+        "tool_name": "name 59",
+        "tool_image": "image 59",
+        "tool_url": "URL 59",
+        "tool_cookies": "cookie 59"
+    },
+    {
+        "tool_name": "name 60",
+        "tool_image": "image 60",
+        "tool_url": "URL 60",
+        "tool_cookies": "cookie 60"
+    },
+    {
+        "tool_name": "name 61",
+        "tool_image": "image 61",
+        "tool_url": "URL 61",
+        "tool_cookies": "cookie 61"
+    },
+    {
+        "tool_name": "name 62",
+        "tool_image": "image 62",
+        "tool_url": "URL 62",
+        "tool_cookies": "cookie 62"
+    },
+    {
+        "tool_name": "name 63",
+        "tool_image": "image 63",
+        "tool_url": "URL 63",
+        "tool_cookies": "cookie 63"
+    },
+    {
+        "tool_name": "name 64",
+        "tool_image": "image 64",
+        "tool_url": "URL 64",
+        "tool_cookies": "cookie 64"
+    },
+    {
+        "tool_name": "name 65",
+        "tool_image": "image 65",
+        "tool_url": "URL 65",
+        "tool_cookies": "cookie 65"
+    },
+    {
+        "tool_name": "name 66",
+        "tool_image": "image 66",
+        "tool_url": "URL 66",
+        "tool_cookies": "cookie 66"
+    },
+    {
+        "tool_name": "name 67",
+        "tool_image": "image 67",
+        "tool_url": "URL 67",
+        "tool_cookies": "cookie 67"
+    },
+    {
+        "tool_name": "name 68",
+        "tool_image": "image 68",
+        "tool_url": "URL 68",
+        "tool_cookies": "cookie 68"
+    },
+    {
+        "tool_name": "name 69",
+        "tool_image": "image 69",
+        "tool_url": "URL 69",
+        "tool_cookies": "cookie 69"
+    },
+    {
+        "tool_name": "name 70",
+        "tool_image": "image 70",
+        "tool_url": "URL 70",
+        "tool_cookies": "cookie 70"
+    },
+    {
+        "tool_name": "name 71",
+        "tool_image": "image 71",
+        "tool_url": "URL 71",
+        "tool_cookies": "cookie 71"
+    },
+    {
+        "tool_name": "name 72",
+        "tool_image": "image 72",
+        "tool_url": "URL 72",
+        "tool_cookies": "cookie 72"
+    },
+    {
+        "tool_name": "name 73",
+        "tool_image": "image 73",
+        "tool_url": "URL 73",
+        "tool_cookies": "cookie 73"
+    },
+    {
+        "tool_name": "name 74",
+        "tool_image": "image 74",
+        "tool_url": "URL 74",
+        "tool_cookies": "cookie 74"
+    },
+    {
+        "tool_name": "name 75",
+        "tool_image": "image 75",
+        "tool_url": "URL 75",
+        "tool_cookies": "cookie 75"
+    }
+
 
 ]
