@@ -1,850 +1,650 @@
 [
-        {
+	{
 		"tool_name": "Perplexity",
 		"tool_image": "https://i.postimg.cc/jj9wwnK1/image.png",
 		"tool_url": "https://www.perplexity.ai/",
-		"tool_cookies": [
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1772213076,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "pplx.metadata",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "{%22qc%22:4%2C%22qcu%22:45821%2C%22qcm%22:1627%2C%22qcc%22:43084%2C%22qcd%22:0%2C%22hli%22:true%2C%22hcga%22:false%2C%22hcds%22:false%2C%22hso%22:false%2C%22hfo%22:false}"
-    },
-    {
-        "domain": ".perplexity.ai",
-        "expirationDate": 1737654852.07598,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "__cf_bm",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "lVvg_YuLiX3rA9MkUOcGP6r2lIGah2AWjB3AVrQEVNE-1737653189-1.0.1.1-U8eqzaLxGzy6kYwFNUCt7iNuTnM1Sh3lofauI2eeZczBpFhZAmPnZC_u5ALoqW_56GfHCBwC3s9O390HvpRo7w"
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1737653978,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "_dd_s",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "rum=0&expire=1737653973490&logs=0"
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1769145040.579529,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "pplx.visitor-id",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "d7cc7ee1-1e17-43c4-a404-339c8e99900c"
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1738257873.309986,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "AWSALBCORS",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "QtUfdTNW376feAH2PcI6Ya7/X1MgIUdNISczGyjadYKZd1IVKOEQLd0+9ZCGTOzlCFU0Ewek+t5bfEmZz01o1HhnSLzkJ/rSznwdZblC3GRlJ2loP7FHaAZLYYlXpZkTspibwHmFa5ST7LEZ2be2TnNoFf5hqUIJVzkKE4P7doV83czjdxrVWhX6Did84w=="
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1737691839.446812,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "__cflb",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "02DiuDyvFMmK5p9jVbVnMNSKYZhUL9aGmKSDtWRacTDc8"
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1740201338.501401,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "__Secure-next-auth.session-token",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..j9NPfUgwPaQ-vetH.FaindiwLAFCTkoG-LLW5pBXmymnDMZgKUyBjeSMBtLnyW5wGJg5bnDelQZaG3D7TVAffLriQvJCielQOf7zEV-8Og8c2XKX4QL5_lG5Mx729h6L4aGDicDSDrwgmxmIA3JubbdXe9WNegE02-rsLAA6BIF4NiP8KP6m5r7dnKNjJh9iPoydtNNEJ9E26hxvhwugeCffuZ8rUiagU0lzx1uDH27ywn_ef1JLVJqHxnSMzagpo5hfBqqLrOcrQonj4r82r_R3Lfdus21na8WcFMLhrn08iV3LMAR7jA6DP-MT9LWKLEpo6SmRPiGmBsg2TYatuW14C0TFnQaIavncXSYwJXchcyCDv.Dv5EIz29mLr1hsX4wCsExQ"
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1738257873.309167,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "AWSALB",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "QtUfdTNW376feAH2PcI6Ya7/X1MgIUdNISczGyjadYKZd1IVKOEQLd0+9ZCGTOzlCFU0Ewek+t5bfEmZz01o1HhnSLzkJ/rSznwdZblC3GRlJ2loP7FHaAZLYYlXpZkTspibwHmFa5ST7LEZ2be2TnNoFf5hqUIJVzkKE4P7doV83czjdxrVWhX6Did84w=="
-    },
-    {
-        "domain": "www.perplexity.ai",
-        "expirationDate": 1738257855,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "pplx.source-selection-v3-org",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "[%22web%22]"
-    }
-]
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "SEMRush",
 		"tool_image": "https://i.postimg.cc/wjMHY0nY/semrush.png",
 		"tool_url": "https://sem-freelancerservice.toolserver.cloud/analytics/overview/?searchType=domain",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMQ=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Ubersuggest",
 		"tool_url": "https://app.neilpatel.com/en/dashboard?",
 		"tool_image": "https://i.postimg.cc/yYrtcBp2/image.png",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMg=="
+		"tool_info": [],
+		"tool_cookies": []
 	},
 	{
 		"tool_name": "MozPro",
 		"tool_url": "https://moz.com",
 		"tool_image": "https://i.postimg.cc/SxCdRpB6/image.png",
-		"tool_cookies": [
-    {
-        "domain": ".analytics.moz.com",
-        "expirationDate": 1737707089.85242,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "AWSALBCORS",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "hswhGaYO9NQZEjvCFAtt74De5Hvz/lyOfrdG6NZE4vG00pHQndvdj2he0GmuAOAJGrHO/7/qG0bhd092IkIYhTFMYofrqg0stKQxXF2w2OJGqzxXq8g+uedylHmo"
-    },
-    {
-        "domain": "analytics.moz.com",
-        "expirationDate": 1737984845.886805,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "AWSALBCORS",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "VGzPRSmLk5XImV6eXDTjsvisO8JMtb5eUAI4GL/aTg4bBl0YahDx3SJlFO93WotC6ViS0N3pko0d101ajHpPWkwQ9X82P6+DqYXCGuhkIVYs3TymMu2DiD5JF2gy"
-    },
-    {
-        "domain": ".moz.com",
-        "expirationDate": 1771940049.615222,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "IR_PI",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "0f8f1f58-c902-11ef-a1ae-09bbba1f420d%7C1737380049061"
-    },
-    {
-        "domain": ".moz.com",
-        "expirationDate": 1737381678.441955,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "__cf_bm",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "7HsHOjKKjNK0BfCa.wcvXc2pxDwBehhroR6xZHZMtew-1737380012-1.0.1.1-LWn4xbfTWd_xSg3AWUlUpw.XdDsWf23sRicscugVpbRPfqpPuXE2w7AaFRC4tcM1lkt3uNrpvMwsp7paJ0yngA"
-    },
-    {
-        "domain": ".analytics.moz.com",
-        "expirationDate": 1768916045,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__stripe_mid",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "455a167f-9538-4f23-8b04-f55b9efc62df3a9e2d"
-    },
-    {
-        "domain": ".moz.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "IR_26520",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "1737380049061%7Cc-51958%7C1737380049061%7CQTgwtOTGfxyKU%3AeXXj1h%3AUdCUksxSa1xqWj60M0%7C"
-    },
-    {
-        "domain": ".moz.com",
-        "expirationDate": 1768889688,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__stripe_mid",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "455a167f-9538-4f23-8b04-f55b9efc62df3a9e2d"
-    },
-    {
-        "domain": ".moz.com",
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "_cfuvid",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "DOYs1bv7neMIAJGiT_lYnb418z3DXtziFAi6p3or_PM-1737353831365-0.0.1.1-604800000"
-    },
-    {
-        "domain": ".moz.com",
-        "expirationDate": 1740980046.053708,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "_moz_csrf",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "5f78c45dc06e0e14ec1b5a7736bc85fe12cadd6e"
-    },
-    {
-        "domain": ".moz.com",
-        "expirationDate": 1745156049,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_rdt_uuid",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1735844565045.b0cf5610-a1d9-4c49-8348-1697658840ad"
-    },
-    {
-        "domain": ".moz.com",
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "mozauth",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "hJaL2dtfnSuSy5t4iyIt9kKVMRECLpmiADh8Dw6RBy1rlbYuN7RTxJOpepJvXbut"
-    }
-]
+		"tool_info": [],
+		"tool_cookies": []
 	},
 	{
 		"tool_name": "Indexification",
 		"tool_image": "https://i.postimg.cc/QttcQLyn/image.png",
 		"tool_url": "https://index.accesstools.xyz/members/addcampaign.php",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhNA=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Link indexer",
 		"tool_image": "https://i.postimg.cc/Y9YLfpxR/image.png",
 		"tool_url": "https://buzz.toolzbuy.com/campaigns",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhNQ=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "VidIQ Boost",
 		"tool_url": "https://app.vidiq.com/login",
 		"tool_image": "https://i.postimg.cc/2St1sqcT/image.png",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhNg=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Mangools",
 		"tool_image": "https://i.postimg.cc/B6TtPmqw/image.png",
 		"tool_url": "https://man.wserver.click/apps",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhNw=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Keywordtool.io",
 		"tool_image": "https://i.postimg.cc/Gh7tD8Cr/image.png",
 		"tool_url": "https://kt.kaylaserver.click/",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhOA=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "AnswerThePublic",
 		"tool_image": "https://i.postimg.cc/vBtHZDzJ/image.png",
 		"tool_url": "https://answerthepublic.com/",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhOQ=="
+		"tool_info": [],
+		"tool_cookies": []
 	},
 	{
 		"tool_name": "Spyfu",
 		"tool_image": "https://i.postimg.cc/4NDCjsvV/image.png",
 		"tool_url": "https://trysm3.rseoclub.com/hq?b=1&panel=my-site",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTA=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Seo site checkups",
 		"tool_image": "https://i.postimg.cc/268gn6mR/image.png",
 		"tool_url": "https://seositecheckup.com/",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTE=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Seoability",
 		"tool_image": "https://i.postimg.cc/7Z3Rc7Zr/image.png",
 		"tool_url": "https://www.seobility.net/en/login/index/",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTI=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Sellthetrend",
 		"tool_image": "https://i.postimg.cc/vBN29t3f/image.png",
 		"tool_url": "https://www.sellthetrend.com/login",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTM=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "buzzstream",
 		"tool_image": "https://i.postimg.cc/PNG6VrGq/image.png",
 		"tool_url": "https://app.buzzstream.com/login/",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTQ=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "WooRank",
 		"tool_image": "https://i.postimg.cc/XYtwwDbV/image.png",
 		"tool_url": "https://www.woorank.com/en/overview",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTU=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "SEO Optimer",
 		"tool_image": "https://i.postimg.cc/t4n6CtV8/image.png",
 		"tool_url": "https://www.seoptimer.com/login",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTY=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Pickmonkey",
 		"tool_image": "https://i.postimg.cc/QN6KQnQR/image.png",
 		"tool_url": "https://www.picmonkey.com/home",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTc=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "SerpStat",
 		"tool_image": "https://i.postimg.cc/KYy1cXbg/image.png",
 		"tool_url": "https://serp.celinaserver.click/projects/dashboard/?original-host=serpstat.com",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTg=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
 		"tool_name": "Website Audit Tool",
 		"tool_image": "https://i.postimg.cc/85Zcbj6h/image.png",
 		"tool_url": "https://onlinetools.ai/website-audit-tool",
-		"tool_cookies": "c29tZWNvb2tpZXNkYXRhMTk=="
+		"tool_info": [],
+		"tool_cookies": []
 
 	},
 	{
-        "tool_name": "WordTracker",
-        "tool_image": "https://i.postimg.cc/50FCRsZ5/image.png",
-        "tool_url": "https://www.wordtracker.com/search",
-        "tool_cookies": "cookie 1"
-         },
-         {
-        "tool_name": "Grammarly",
-        "tool_image": "https://i.postimg.cc/WzNJ1sd8/image.png",
-        "tool_url": "https://www.grammarly.com/",
-        "tool_cookies": "cookie 2"
-       },
-       {
-        "tool_name": "Wordtune",
-        "tool_image": "https://i.postimg.cc/ydYVJxTD/image.png",
-        "tool_url": "https://app.wordtune.com/editor/",
-        "tool_cookies": "cookie 3"
-       },
-       {
-       "tool_name": "Quillbot",
-        "tool_image": "https://i.postimg.cc/59XXpKw6/image.png",
-        "tool_url": "https://quillbot.com/login?",
-        "tool_cookies": "cookie 4"
-       },
-       {
-        "tool_name": "Paperpal",
-        "tool_image": "https://i.postimg.cc/mZ9btvYN/image.png",
-        "tool_url": "https://sso.editage.com/login?continue=https%3A%2F%2Fedit.paperpal.com%2Flogin",
-        "tool_cookies": "cookie 5"
-      },
-      {
-        "tool_name": "ChatGPT",
-        "tool_image": "https://i.postimg.cc/2yk2NRrR/image.png",
-        "tool_url": "https://chatgpt.com/",
-        "tool_cookies": "cookie 6"
-      },
-      {
-        "tool_name": "You.com",
-        "tool_image": "https://i.postimg.cc/fb7cz2Hw/image.png",
-        "tool_url": "https://you.com/",
-        "tool_cookies": "cookie 7"
-       },
-       {
-        "tool_name": "CloserCopy",
-        "tool_image": "https://i.postimg.cc/J7XkMdtS/image.png",
-        "tool_url": "https://www.closerscopy.com/dashboard/M6WGYB35AT4MNSDS25AEQGM2",
-        "tool_cookies": "cookie 8"
-        },
-        {
-        "tool_name": "Creator ai",
-        "tool_image": "https://i.postimg.cc/bN8X7nyS/image.png",
-        "tool_url": "https://app.creaitor.ai/dashboard",
-        "tool_cookies": "cookie 9"
-         },
-         {
-        "tool_name": "Jasper",
-        "tool_image": "https://i.postimg.cc/0js3qgs1/image.png",
-        "tool_url": "https://jas.seotoolsbundle.com/",
-        "tool_cookies": "cookie 10"
-         },
-         {
-        "tool_name": "Sider ai",
-        "tool_image": "https://i.postimg.cc/t4YBwRxV/image.png",
-        "tool_url": "https://sider.ai/mychats",
-        "tool_cookies": "cookie 11"
-         },
-         {
-        "tool_name": "WordHero",
-        "tool_image": "https://i.postimg.cc/Ssq7SmJd/image.png",
-        "tool_url": "https://fun.1clickscripts.com/home",
-        "tool_cookies": "cookie 12"
-          },
-          {
-        "tool_name": "Quetext",
-        "tool_image": "image 13",
-        "tool_url": "URL 13",
-        "tool_cookies": "cookie 13"
-         },
-         {
-        "tool_name": "name 14",
-        "tool_image": "image 14",
-        "tool_url": "URL 14",
-        "tool_cookies": "cookie 14"
-         },
-         {
-        "tool_name": "name 15",
-        "tool_image": "image 15",
-        "tool_url": "URL 15",
-        "tool_cookies": "cookie 15"
-         },
-         {
-        "tool_name": "name 16",
-        "tool_image": "image 16",
-        "tool_url": "URL 16",
-        "tool_cookies": "cookie 16"
-         },
-         {
-        "tool_name": "name 17",
-        "tool_image": "image 17",
-        "tool_url": "URL 17",
-        "tool_cookies": "cookie 17"
-         },
-         {
-        "tool_name": "name 18",
-        "tool_image": "image 18",
-        "tool_url": "URL 18",
-        "tool_cookies": "cookie 18"
-         },
-         {
-        "tool_name": "name 19",
-        "tool_image": "image 19",
-        "tool_url": "URL 19",
-        "tool_cookies": "cookie 19"
-         },
-         {
-        "tool_name": "name 20",
-        "tool_image": "image 20",
-        "tool_url": "URL 20",
-        "tool_cookies": "cookie 20"
-          },
-          {
-        "tool_name": "name 21",
-        "tool_image": "image 21",
-        "tool_url": "URL 21",
-        "tool_cookies": "cookie 21"
-         },
-         {
-        "tool_name": "name 22",
-        "tool_image": "image 22",
-        "tool_url": "URL 22",
-        "tool_cookies": "cookie 22"
-         },
-         {
-        "tool_name": "name 23",
-        "tool_image": "image 23",
-        "tool_url": "URL 23",
-        "tool_cookies": "cookie 23"
-         },
-         {
-        "tool_name": "name 24",
-        "tool_image": "image 24",
-        "tool_url": "URL 24",
-        "tool_cookies": "cookie 24"
-        },
-        {
-        "tool_name": "name 25",
-        "tool_image": "image 25",
-        "tool_url": "URL 25",
-        "tool_cookies": "cookie 25"
-         },
-         {
-        "tool_name": "name 26",
-        "tool_image": "image 26",
-        "tool_url": "URL 26",
-        "tool_cookies": "cookie 26"
-    },
-    {
-        "tool_name": "name 27",
-        "tool_image": "image 27",
-        "tool_url": "URL 27",
-        "tool_cookies": "cookie 27"
-    },
-    {
-        "tool_name": "name 28",
-        "tool_image": "image 28",
-        "tool_url": "URL 28",
-        "tool_cookies": "cookie 28"
-    },
-    {
-        "tool_name": "name 29",
-        "tool_image": "image 29",
-        "tool_url": "URL 29",
-        "tool_cookies": "cookie 29"
-    },
-    {
-        "tool_name": "name 30",
-        "tool_image": "image 30",
-        "tool_url": "URL 30",
-        "tool_cookies": "cookie 30"
-    },
-    {
-        "tool_name": "name 31",
-        "tool_image": "image 31",
-        "tool_url": "URL 31",
-        "tool_cookies": "cookie 31"
-    },
-    {
-        "tool_name": "name 32",
-        "tool_image": "image 32",
-        "tool_url": "URL 32",
-        "tool_cookies": "cookie 32"
-    },
-    {
-        "tool_name": "name 33",
-        "tool_image": "image 33",
-        "tool_url": "URL 33",
-        "tool_cookies": "cookie 33"
-    },
-    {
-        "tool_name": "name 34",
-        "tool_image": "image 34",
-        "tool_url": "URL 34",
-        "tool_cookies": "cookie 34"
-    },
-    {
-        "tool_name": "name 35",
-        "tool_image": "image 35",
-        "tool_url": "URL 35",
-        "tool_cookies": "cookie 35"
-    },
-    {
-        "tool_name": "name 36",
-        "tool_image": "image 36",
-        "tool_url": "URL 36",
-        "tool_cookies": "cookie 36"
-    },
-    {
-        "tool_name": "name 37",
-        "tool_image": "image 37",
-        "tool_url": "URL 37",
-        "tool_cookies": "cookie 37"
-    },
-    {
-        "tool_name": "name 38",
-        "tool_image": "image 38",
-        "tool_url": "URL 38",
-        "tool_cookies": "cookie 38"
-    },
-    {
-        "tool_name": "name 39",
-        "tool_image": "image 39",
-        "tool_url": "URL 39",
-        "tool_cookies": "cookie 39"
-    },
-    {
-        "tool_name": "name 40",
-        "tool_image": "image 40",
-        "tool_url": "URL 40",
-        "tool_cookies": "cookie 40"
-    },
-    {
-        "tool_name": "name 41",
-        "tool_image": "image 41",
-        "tool_url": "URL 41",
-        "tool_cookies": "cookie 41"
-    },
-    {
-        "tool_name": "name 42",
-        "tool_image": "image 42",
-        "tool_url": "URL 42",
-        "tool_cookies": "cookie 42"
-    },
-    {
-        "tool_name": "name 43",
-        "tool_image": "image 43",
-        "tool_url": "URL 43",
-        "tool_cookies": "cookie 43"
-    },
-    {
-        "tool_name": "name 44",
-        "tool_image": "image 44",
-        "tool_url": "URL 44",
-        "tool_cookies": "cookie 44"
-    },
-    {
-        "tool_name": "name 45",
-        "tool_image": "image 45",
-        "tool_url": "URL 45",
-        "tool_cookies": "cookie 45"
-    },
-    {
-        "tool_name": "name 46",
-        "tool_image": "image 46",
-        "tool_url": "URL 46",
-        "tool_cookies": "cookie 46"
-    },
-    {
-        "tool_name": "name 47",
-        "tool_image": "image 47",
-        "tool_url": "URL 47",
-        "tool_cookies": "cookie 47"
-    },
-    {
-        "tool_name": "name 48",
-        "tool_image": "image 48",
-        "tool_url": "URL 48",
-        "tool_cookies": "cookie 48"
-    },
-    {
-        "tool_name": "name 49",
-        "tool_image": "image 49",
-        "tool_url": "URL 49",
-        "tool_cookies": "cookie 49"
-    },
-    {
-        "tool_name": "name 50",
-        "tool_image": "image 50",
-        "tool_url": "URL 50",
-        "tool_cookies": "cookie 50"
-    },
-    {
-        "tool_name": "name 51",
-        "tool_image": "image 51",
-        "tool_url": "URL 51",
-        "tool_cookies": "cookie 51"
-    },
-    {
-        "tool_name": "name 52",
-        "tool_image": "image 52",
-        "tool_url": "URL 52",
-        "tool_cookies": "cookie 52"
-    },
-    {
-        "tool_name": "name 53",
-        "tool_image": "image 53",
-        "tool_url": "URL 53",
-        "tool_cookies": "cookie 53"
-    },
-    {
-        "tool_name": "name 54",
-        "tool_image": "image 54",
-        "tool_url": "URL 54",
-        "tool_cookies": "cookie 54"
-    },
-    {
-        "tool_name": "name 55",
-        "tool_image": "image 55",
-        "tool_url": "URL 55",
-        "tool_cookies": "cookie 55"
-    },
-    {
-        "tool_name": "name 56",
-        "tool_image": "image 56",
-        "tool_url": "URL 56",
-        "tool_cookies": "cookie 56"
-    },
-    {
-        "tool_name": "name 57",
-        "tool_image": "image 57",
-        "tool_url": "URL 57",
-        "tool_cookies": "cookie 57"
-    },
-    {
-        "tool_name": "name 58",
-        "tool_image": "image 58",
-        "tool_url": "URL 58",
-        "tool_cookies": "cookie 58"
-    },
-    {
-        "tool_name": "name 59",
-        "tool_image": "image 59",
-        "tool_url": "URL 59",
-        "tool_cookies": "cookie 59"
-    },
-    {
-        "tool_name": "name 60",
-        "tool_image": "image 60",
-        "tool_url": "URL 60",
-        "tool_cookies": "cookie 60"
-    },
-    {
-        "tool_name": "name 61",
-        "tool_image": "image 61",
-        "tool_url": "URL 61",
-        "tool_cookies": "cookie 61"
-    },
-    {
-        "tool_name": "name 62",
-        "tool_image": "image 62",
-        "tool_url": "URL 62",
-        "tool_cookies": "cookie 62"
-    },
-    {
-        "tool_name": "name 63",
-        "tool_image": "image 63",
-        "tool_url": "URL 63",
-        "tool_cookies": "cookie 63"
-    },
-    {
-        "tool_name": "name 64",
-        "tool_image": "image 64",
-        "tool_url": "URL 64",
-        "tool_cookies": "cookie 64"
-    },
-    {
-        "tool_name": "name 65",
-        "tool_image": "image 65",
-        "tool_url": "URL 65",
-        "tool_cookies": "cookie 65"
-    },
-    {
-        "tool_name": "name 66",
-        "tool_image": "image 66",
-        "tool_url": "URL 66",
-        "tool_cookies": "cookie 66"
-    },
-    {
-        "tool_name": "name 67",
-        "tool_image": "image 67",
-        "tool_url": "URL 67",
-        "tool_cookies": "cookie 67"
-    },
-    {
-        "tool_name": "name 68",
-        "tool_image": "image 68",
-        "tool_url": "URL 68",
-        "tool_cookies": "cookie 68"
-    },
-    {
-        "tool_name": "name 69",
-        "tool_image": "image 69",
-        "tool_url": "URL 69",
-        "tool_cookies": "cookie 69"
-    },
-    {
-        "tool_name": "name 70",
-        "tool_image": "image 70",
-        "tool_url": "URL 70",
-        "tool_cookies": "cookie 70"
-    },
-    {
-        "tool_name": "name 71",
-        "tool_image": "image 71",
-        "tool_url": "URL 71",
-        "tool_cookies": "cookie 71"
-    },
-    {
-        "tool_name": "name 72",
-        "tool_image": "image 72",
-        "tool_url": "URL 72",
-        "tool_cookies": "cookie 72"
-    },
-    {
-        "tool_name": "name 73",
-        "tool_image": "image 73",
-        "tool_url": "URL 73",
-        "tool_cookies": "cookie 73"
-    },
-    {
-        "tool_name": "name 74",
-        "tool_image": "image 74",
-        "tool_url": "URL 74",
-        "tool_cookies": "cookie 74"
-    },
-    {
-        "tool_name": "name 75",
-        "tool_image": "image 75",
-        "tool_url": "URL 75",
-        "tool_cookies": "cookie 75"
-    }
-
+		"tool_name": "WordTracker",
+		"tool_image": "https://i.postimg.cc/50FCRsZ5/image.png",
+		"tool_url": "https://www.wordtracker.com/search",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Grammarly",
+		"tool_image": "https://i.postimg.cc/WzNJ1sd8/image.png",
+		"tool_url": "https://www.grammarly.com/",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Wordtune",
+		"tool_image": "https://i.postimg.cc/ydYVJxTD/image.png",
+		"tool_url": "https://app.wordtune.com/editor/",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Quillbot",
+		"tool_image": "https://i.postimg.cc/59XXpKw6/image.png",
+		"tool_url": "https://quillbot.com/login?",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Paperpal",
+		"tool_image": "https://i.postimg.cc/mZ9btvYN/image.png",
+		"tool_url": "https://sso.editage.com/login?continue=https%3A%2F%2Fedit.paperpal.com%2Flogin",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "ChatGPT",
+		"tool_image": "https://i.postimg.cc/2yk2NRrR/image.png",
+		"tool_url": "https://chatgpt.com/",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "You.com",
+		"tool_image": "https://i.postimg.cc/fb7cz2Hw/image.png",
+		"tool_url": "https://you.com/",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "CloserCopy",
+		"tool_image": "https://i.postimg.cc/J7XkMdtS/image.png",
+		"tool_url": "https://www.closerscopy.com/dashboard/M6WGYB35AT4MNSDS25AEQGM2",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Creator ai",
+		"tool_image": "https://i.postimg.cc/bN8X7nyS/image.png",
+		"tool_url": "https://app.creaitor.ai/dashboard",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Jasper",
+		"tool_image": "https://i.postimg.cc/0js3qgs1/image.png",
+		"tool_url": "https://jas.seotoolsbundle.com/",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Sider ai",
+		"tool_image": "https://i.postimg.cc/t4YBwRxV/image.png",
+		"tool_url": "https://sider.ai/mychats",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "WordHero",
+		"tool_image": "https://i.postimg.cc/Ssq7SmJd/image.png",
+		"tool_url": "https://fun.1clickscripts.com/home",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "Quetext",
+		"tool_image": "image 13",
+		"tool_url": "URL 13",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 14",
+		"tool_image": "image 14",
+		"tool_url": "URL 14",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 15",
+		"tool_image": "image 15",
+		"tool_url": "URL 15",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 16",
+		"tool_image": "image 16",
+		"tool_url": "URL 16",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 17",
+		"tool_image": "image 17",
+		"tool_url": "URL 17",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 18",
+		"tool_image": "image 18",
+		"tool_url": "URL 18",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 19",
+		"tool_image": "image 19",
+		"tool_url": "URL 19",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 20",
+		"tool_image": "image 20",
+		"tool_url": "URL 20",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 21",
+		"tool_image": "image 21",
+		"tool_url": "URL 21",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 22",
+		"tool_image": "image 22",
+		"tool_url": "URL 22",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 23",
+		"tool_image": "image 23",
+		"tool_url": "URL 23",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 24",
+		"tool_image": "image 24",
+		"tool_url": "URL 24",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 25",
+		"tool_image": "image 25",
+		"tool_url": "URL 25",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 26",
+		"tool_image": "image 26",
+		"tool_url": "URL 26",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 27",
+		"tool_image": "image 27",
+		"tool_url": "URL 27",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 28",
+		"tool_image": "image 28",
+		"tool_url": "URL 28",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 29",
+		"tool_image": "image 29",
+		"tool_url": "URL 29",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 30",
+		"tool_image": "image 30",
+		"tool_url": "URL 30",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 31",
+		"tool_image": "image 31",
+		"tool_url": "URL 31",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 32",
+		"tool_image": "image 32",
+		"tool_url": "URL 32",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 33",
+		"tool_image": "image 33",
+		"tool_url": "URL 33",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 34",
+		"tool_image": "image 34",
+		"tool_url": "URL 34",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 35",
+		"tool_image": "image 35",
+		"tool_url": "URL 35",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 36",
+		"tool_image": "image 36",
+		"tool_url": "URL 36",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 37",
+		"tool_image": "image 37",
+		"tool_url": "URL 37",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 38",
+		"tool_image": "image 38",
+		"tool_url": "URL 38",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 39",
+		"tool_image": "image 39",
+		"tool_url": "URL 39",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 40",
+		"tool_image": "image 40",
+		"tool_url": "URL 40",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 41",
+		"tool_image": "image 41",
+		"tool_url": "URL 41",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 42",
+		"tool_image": "image 42",
+		"tool_url": "URL 42",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 43",
+		"tool_image": "image 43",
+		"tool_url": "URL 43",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 44",
+		"tool_image": "image 44",
+		"tool_url": "URL 44",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 45",
+		"tool_image": "image 45",
+		"tool_url": "URL 45",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 46",
+		"tool_image": "image 46",
+		"tool_url": "URL 46",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 47",
+		"tool_image": "image 47",
+		"tool_url": "URL 47",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 48",
+		"tool_image": "image 48",
+		"tool_url": "URL 48",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 49",
+		"tool_image": "image 49",
+		"tool_url": "URL 49",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 50",
+		"tool_image": "image 50",
+		"tool_url": "URL 50",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 51",
+		"tool_image": "image 51",
+		"tool_url": "URL 51",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 52",
+		"tool_image": "image 52",
+		"tool_url": "URL 52",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 53",
+		"tool_image": "image 53",
+		"tool_url": "URL 53",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 54",
+		"tool_image": "image 54",
+		"tool_url": "URL 54",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 55",
+		"tool_image": "image 55",
+		"tool_url": "URL 55",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 56",
+		"tool_image": "image 56",
+		"tool_url": "URL 56",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 57",
+		"tool_image": "image 57",
+		"tool_url": "URL 57",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 58",
+		"tool_image": "image 58",
+		"tool_url": "URL 58",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 59",
+		"tool_image": "image 59",
+		"tool_url": "URL 59",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 60",
+		"tool_image": "image 60",
+		"tool_url": "URL 60",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 61",
+		"tool_image": "image 61",
+		"tool_url": "URL 61",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 62",
+		"tool_image": "image 62",
+		"tool_url": "URL 62",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 63",
+		"tool_image": "image 63",
+		"tool_url": "URL 63",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 64",
+		"tool_image": "image 64",
+		"tool_url": "URL 64",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 65",
+		"tool_image": "image 65",
+		"tool_url": "URL 65",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 66",
+		"tool_image": "image 66",
+		"tool_url": "URL 66",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 67",
+		"tool_image": "image 67",
+		"tool_url": "URL 67",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 68",
+		"tool_image": "image 68",
+		"tool_url": "URL 68",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 69",
+		"tool_image": "image 69",
+		"tool_url": "URL 69",
+		"tool_info": [],
+		"tool_cookies": []
+	},
+	{
+		"tool_name": "name 70",
+		"tool_image": "image 70",
+		"tool_url": "URL 70",
+		"tool_info": [],
+		"tool_cookies": []
+	}
 
 ]
